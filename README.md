@@ -12,7 +12,6 @@ A Windows batch script for testing SMB authentication strength through password 
 ## Features
 - SMB authentication testing
 - Wordlist-based password attempts
-- Clean error handling
 - Network connection cleanup
 
 ## Safe Usage
