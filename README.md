@@ -2,7 +2,7 @@
 
 **DISCLAIMER: FOR EDUCATIONAL USE ONLY**
 
-A Windows batch script for testing SMB authentication strength through password cracking simulations.
+A Windows batch script for testing SMB authentication strength through password cracking.
 
 ## Legal Warning
 - Use only on systems you own or have explicit written permission to test
