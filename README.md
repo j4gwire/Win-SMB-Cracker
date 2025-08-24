@@ -1,6 +1,6 @@
 # Win-SMB-Cracker
 
-**DISCLAIMER: FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY**
+**DISCLAIMER: FOR EDUCATIONAL USE ONLY**
 
 A Windows batch script for testing SMB authentication strength through password cracking simulations.
 
